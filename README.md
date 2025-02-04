@@ -27,4 +27,4 @@ You can see all of these projects as videos on my Instagram:
 
 1. ⬇️ **Clone the repository:**  
    ```sh
-   git clone https://github.com/yourusername/arduino-projects-collection.git
+   git clone https://github.com/Lb-Programming/arduino-projects-collection.git
